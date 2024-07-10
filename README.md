@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reha-hazir
-- I am a passionate graduate data professional and coding enthusiast.
+- I am a passionate graduate data professional and ML enthusiast.
 - 👀 I’m interested in all the related fields with DATA.
   - I thrive on Python, using it to bring ideas to life, whether it's crafting Android games or building Django websites.
   - Data visualization is where I shine—I love transforming numbers into meaningful insights through dashboards and reports.
